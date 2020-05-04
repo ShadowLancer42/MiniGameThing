@@ -1,0 +1,6 @@
+- Don't rename anything, if you do, it will break
+- Don't move anything, keep it all in 1 folder.
+- Create a shortcut for 'Startup'
+- You can move and rename that shortcut
+- use the shortcut to 'Startup' the program
+lmao
